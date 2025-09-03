@@ -12,7 +12,7 @@ A collection of C programming challenges and solutions.  Includes exercises on p
 | Implement `mini_sprintf` | Pointers | ✅ Done |
 | Implement `puts_fd`    | Pointers | ✅ Done |
 | Implement `slice_ptr`  | Pointers | ✅ Done |
-| Implement `ft_range`   | Arrays   | ✅ Done |
+| Implement `ft_rrange`   | Arrays   | ✅ Done |
 | Implement `str_truncate` | Strings | ✅ Done |
 | Implement `putnbr_fd`  | Algorithms | ✅ Done |
 | Implement `sum_numbers` | Algorithms | ✅ Done |
